@@ -2,10 +2,19 @@
 **Project Type:** Desktop App  
 **Project Topic:** University Learning Management System
 
+
+
+
+
+
+
 ## Problem Statement
 The existing University Learning Management System (LMS) faces significant challenges, notably the absence of crucial features that hinder effective communication and organization. One prominent issue is the lack of information regarding teachers' office hours, which plays a pivotal role in students' academic support and engagement. Without this essential feature, students struggle to connect with instructors, seek clarifications, or schedule appointments for additional assistance.
 
 Additionally, the current LMS fails to incorporate a comprehensive display of students' timetables. This omission hampers efficient coordination and planning, making it difficult for both students and faculty to synchronize their schedules for meetings, group projects, or other collaborative activities. The absence of a clear and accessible overview of students' timetables impedes the seamless integration of academic and extracurricular commitments, potentially leading to missed opportunities for collaboration and hindering overall productivity within the academic community. Addressing these issues is crucial for enhancing the functionality and user experience of the University LMS.
+
+
+![Project Logo](./New.JPG)
 
 ## Problem Solution and Scope
 Traditional university education systems face challenges. Ta’allum, a comprehensive learning system, addresses these issues with modern software engineering. It includes modules for teachers to manage courses, assessments, and attendance, while students can enroll, access content, and track progress. Key features like user authentication, intuitive dashboards, communication tools, analytics, and scalability ensure a seamless learning experience, promoting efficiency, engagement, and accountability. The scope of this project is students and teachers of the university.
